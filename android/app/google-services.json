@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276819292727",
+    "project_id": "clap-board-5e815",
+    "storage_bucket": "clap-board-5e815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276819292727:android:5eb561e705206e89fb85b2",
+        "android_client_info": {
+          "package_name": "com.app.clapboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dBWB9p7YGZvb9M_N2z0VE1blhSkcBew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
